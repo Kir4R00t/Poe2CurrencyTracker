@@ -1,3 +1,7 @@
+// So this is a very early version and I kinda have no clue how to code in JS
+// That's why what you can see below is just an unholy pile of AI generated bullshit
+// JS may suck but 'vibe coding' is way fucking worse
+
 function parseCurrency(text) {
   const match = text.match(/For:\s*(\d+)x\s+(.+)/);
   if (!match) return null;
