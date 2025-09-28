@@ -12,5 +12,11 @@
       "js": ["content.js"],
       "run_at": "document_idle"
     }
-  ]
+  ],
+  "icons": {
+    "16": "div_16.png",
+    "32": "div_32.png",
+    "48": "div_48.png",
+    "128": "div_128.png"
+  }
 }
